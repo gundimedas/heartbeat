@@ -1,0 +1,30 @@
+[
+  {
+    "day": "Fri Apr 28 2023",
+    "minBPM": 60,
+    "maxBPM": 119,
+    "medianBPM": 80.5,
+    "latestTimestamp": "2023-04-28T16:24:00.000Z"
+  },
+  {
+    "day": "Sat Apr 29 2023",
+    "minBPM": 61,
+    "maxBPM": 120,
+    "medianBPM": 81,
+    "latestTimestamp": "2023-04-29T16:24:00.000Z"
+  },
+  {
+    "day": "Sun Apr 30 2023",
+    "minBPM": 62,
+    "maxBPM": 120,
+    "medianBPM": 82,
+    "latestTimestamp": "2023-04-30T16:23:00.000Z"
+  },
+  {
+    "day": "Mon May 01 2023",
+    "minBPM": 60,
+    "maxBPM": 117,
+    "medianBPM": 78,
+    "latestTimestamp": "2023-05-01T16:26:00.000Z"
+  }
+]
